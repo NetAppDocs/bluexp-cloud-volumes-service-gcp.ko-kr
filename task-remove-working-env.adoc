@@ -21,6 +21,6 @@ TIP: Cloud Manager에서 Google Cloud용 Cloud Volumes Service 구독을 삭제�
 
 .단계
 . 작업 환경을 엽니다.
-. 를 클릭합니다 image:screenshot_gallery_options.gif[""] 단추를 클릭하고 <Cloud Volumes Service 제거>*를 클릭합니다.
+. 를 클릭합니다 image:screenshot_gallery_options.gif["세 개의 점이 있는 아이콘."] 단추를 클릭하고 <Cloud Volumes Service 제거>*를 클릭합니다.
 . 확인 대화 상자에서 * 제거 * 를 클릭합니다.
 

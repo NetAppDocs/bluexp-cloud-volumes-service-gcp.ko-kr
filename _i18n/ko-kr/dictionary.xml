@@ -235,7 +235,6 @@
   <block id="8f6f9937d2a2acb76e352fb5e9dfff19" category="summary">Cloud Volumes Service for Google Cloud 구독과 Cloud Manager에서 모든 기존 볼륨을 제거할 수 있습니다. 볼륨은 삭제되지 않으며 Cloud Manager 인터페이스에서 방금 제거됩니다.</block>
   <block id="ea4e50481c541cefaed626458af5901f" category="doc">Cloud Manager에서 Cloud Volumes Service를 제거합니다</block>
   <block id="b2639f031018ddb46e5517acac1b12ef" category="admonition">Cloud Manager에서 Google Cloud용 Cloud Volumes Service 구독을 삭제할 수 없습니다. Google Cloud Console을 통해서만 이 작업을 수행할 수 있습니다.</block>
-  <block id="c723db2b353490931b5febeb5b3ec637" category="list-text">를 클릭합니다 <block ref="a5c9b85c9e509567688aed8106bc419c" category="inline-image-macro-rx" type="image"></block> 단추를 클릭하고 &lt;Cloud Volumes Service 제거&gt;*를 클릭합니다.</block>
   <block id="d6781b097f0c80fef5a0f286b314592a" category="list-text">확인 대화 상자에서 * 제거 * 를 클릭합니다.</block>
   <block id="30d965eef5ba25c6b9998ae38270b43e" category="doc">법적 고지</block>
   <block id="4940124e8487cb4ea36f1511a195cf66" category="inline-link-macro">Cloud Manager 3.9에 대한 고지 사항</block>
@@ -270,14 +269,11 @@
   <block id="c164c685163f0ac5277f4c117b8c9c2c" category="doc">Google Cloud용 Cloud Volumes Service 문서</block>
   <block id="07412ee3cf29f80fadf8fe52f687e709" category="summary">DNS 서버 또는 Active Directory 도메인을 변경한 경우 Cloud Volumes Service에서 SMB 서버를 수정하여 클라이언트에 계속 스토리지를 제공할 수 있도록 해야 합니다.</block>
   <block id="cfc8683315c11129a14f7b806a6f699c" category="doc">Active Directory 구성을 관리합니다</block>
-  <block id="69911db82cd6ce5dc7c63d1b33420f3b" category="list-text">를 클릭합니다 <block ref="a5c9b85c9e509567688aed8106bc419c" category="inline-image-macro-rx" type="image"></block> 버튼을 클릭하고 * Active Directory 관리 * 를 클릭합니다.</block>
-  <block id="6009cb4ef9aecc48bb7af9c3b4fb92ad" category="paragraph">Active Directory가 구성되어 있지 않은 경우 지금 추가할 수 있습니다. 설정이 구성되어 있으면 를 사용하여 설정을 수정하거나 삭제할 수 있습니다 <block ref="a5c9b85c9e509567688aed8106bc419c" category="inline-image-macro-rx" type="image"></block> 단추를 클릭합니다.</block>
   <block id="fd1f3b127eeb96862e4cde53a7ee6267" category="list-text">SMB 서버에 대한 설정을 지정합니다.</block>
   <block id="c1ca298a9a9c76ca22ecf23ccaca6448" category="cell">SMB 서버의 이름 확인을 제공하는 DNS 서버의 IP 주소입니다. 여러 서버를 참조할 때 쉼표를 사용하여 IP 주소를 구분합니다(예: 172.31.25.223, 172.31.2.74).</block>
   <block id="4bc62575e91aa40d329c1383c7a4fc46" category="list-text">설정을 저장하려면 * 저장 * 을 클릭합니다.</block>
   <block id="3c10116b37b407ac79092a38ffb292e4" category="summary">NetApp 기술 지원으로 지원 케이스를 생성하기 전에 NetApp Support 사이트 계정을 Cloud Manager에 추가한 다음 지원을 위해 등록해야 합니다.</block>
   <block id="42748df9eaa0be17ddc5cc1593cf57ab" category="doc">지원을 위해 등록하십시오</block>
-  <block id="7ff191df90fac0fa94ab5c2b5101a5e9" category="sidebar">모든 Cloud Manager 설명서</block>
   <block id="bf5d97d0f930d16c4814a56d0ffddf42" category="sidebar">Google Cloud용 Cloud Volumes Service 문서</block>
   <block id="7d0ee6fed10d3d4e5c9ee496729ab519" category="sidebar">릴리스 정보</block>
   <block id="be11c74c1dd7f307bb80183a90dc2067" category="sidebar">시작하십시오</block>
@@ -346,4 +342,9 @@
   <block id="bece28b158ab337d9ed24b00d7d02cc7" category="list-text">NetApp 기술 지원을 위한 전화 번호를 찾으려면 * 문의하다</block>
   <block id="efe81cff8e6f47ec59ef94167b76bf5a" category="list-text">문제 열기 * 를 클릭하고 옵션 중 하나를 선택한 다음 * 보내기 * 를 클릭합니다.</block>
   <block id="cbb1040836732e478409dacf7e45171a" category="paragraph">NetApp 담당자가 귀하의 케이스를 검토하고 곧 다시 귀하에 연락을 드릴 것입니다.</block>
+  <block id="f53392d049b9dddff4ba55ad74c96588" category="inline-image-macro">세 개의 점이 있는 아이콘</block>
+  <block id="4a6bf9c3f62fb119f3187ec42ecd340d" category="list-text">를 클릭합니다 <block ref="05d0267e107b3cc780d52df5db38eaef" category="inline-image-macro-rx" type="image"></block> 버튼을 클릭하고 * Active Directory 관리 * 를 클릭합니다.</block>
+  <block id="b161c15ae834886d4dbb8c09b3bad848" category="paragraph">Active Directory가 구성되어 있지 않은 경우 지금 추가할 수 있습니다. 설정이 구성되어 있으면 를 사용하여 설정을 수정하거나 삭제할 수 있습니다 <block ref="05d0267e107b3cc780d52df5db38eaef" category="inline-image-macro-rx" type="image"></block> 단추를 클릭합니다.</block>
+  <block id="6a9903314020e84e3af325216666825e" category="inline-image-macro">세 개의 점이 있는 아이콘.</block>
+  <block id="c2f82cf362208ba8433ec2ba2152c7e3" category="list-text">를 클릭합니다 <block ref="8891ca04a345a35bd7da25d57718d9b7" category="inline-image-macro-rx" type="image"></block> 단추를 클릭하고 &lt;Cloud Volumes Service 제거&gt;*를 클릭합니다.</block>
 </blocks>
