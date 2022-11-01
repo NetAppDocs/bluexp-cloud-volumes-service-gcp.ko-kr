@@ -2,7 +2,7 @@
 sidebar: sidebar 
 permalink: task-create-working-env.html 
 keywords: cloud volumes service for gcp, google cloud, cloud volumes, create cloud volumes, discover cloud volumes service for gcp, cloud volumes service subscription, discover cloud volumes service subscription, discover region, allowed clients, create snapshots 
-summary: Cloud Manager에서 Cloud Volumes Service for Google Cloud 작업 환경을 생성하여 볼륨 및 스냅샷을 생성하고 관리합니다. 
+summary: BlueXP에서 Google Cloud용 Cloud Volumes Service 작업 환경을 생성하여 볼륨과 스냅샷을 생성하고 관리합니다. 
 ---
 = Google Cloud용 Cloud Volumes Service 작업 환경을 만듭니다
 :hardbreaks:
@@ -14,7 +14,7 @@ summary: Cloud Manager에서 Cloud Volumes Service for Google Cloud 작업 환�
 
 
 [role="lead"]
-Cloud Manager에서 Cloud Volumes Service for Google Cloud 작업 환경을 생성하여 볼륨 및 스냅샷을 생성하고 관리할 수 있습니다.
+볼륨 및 스냅샷을 생성하고 관리할 수 있도록 BlueXP에서 Google Cloud용 Cloud Volumes Service 작업 환경을 만듭니다.
 
 Google Cloud Console에서 이미 볼륨을 생성했는지, 아니면 Cloud Volumes Service for Google Cloud에 등록만 했고 아직 볼륨이 없는 지와 관계없이, 첫 번째 단계는 GCP 구독에 따라 볼륨의 작업 환경을 생성하는 것입니다.
 
@@ -30,7 +30,7 @@ TIP: 여러 Google Cloud 프로젝트에 구독과 볼륨이 있는 경우 각 �
 
 
 .단계
-. Cloud Manager에서 새 작업 환경을 추가하고 * Google Cloud * 위치를 선택한 다음 * 계속 * 을 클릭합니다.
+. BlueXP에서 새 작업 환경을 추가하고 * Google Cloud * 위치를 선택한 다음 * 계속 * 을 클릭합니다.
 . Cloud Volumes Service * 를 선택하고 * 계속 * 을 클릭합니다.
 +
 image:screenshot_add_cvs_gcp_working_env.png["Cloud Volumes Service for GCP 구독에 대한 작업 환경을 추가하는 스크린샷"]
@@ -48,11 +48,11 @@ image:screenshot_add_cvs_gcp_credentials.png["Cloud Volumes Service for GCP 구�
 
 
 
-Cloud Manager는 Google Cloud용 Cloud Volumes Service 작업 환경을 표시합니다.
+BlueXP는 Google Cloud 작업 환경을 위한 Cloud Volumes Service를 표시합니다.
 
 image:screenshot_cvs_gcp_cloud.png["Google Cloud 작업 환경을 위한 Cloud Volumes Service 스크린샷"]
 
-이 구독에 대한 클라우드 볼륨이 이미 있는 경우 새 작업 환경에 볼륨이 표시됩니다. Cloud Manager에서 클라우드 볼륨을 더 추가할 수 있습니다.
+이 구독에 대한 클라우드 볼륨이 이미 있는 경우 새 작업 환경에 볼륨이 표시됩니다. BlueXP에서 클라우드 볼륨을 추가할 수 있습니다.
 
 이 구독에 대한 클라우드 볼륨이 없는 경우 지금 생성하십시오.
 

@@ -2,7 +2,7 @@
 sidebar: sidebar 
 permalink: task-create-volumes.html 
 keywords: cloud volumes service for gcp, google cloud, cloud volumes, create cloud volumes, mount volume 
-summary: Cloud Manager를 사용하면 Cloud Volumes Service for Google Cloud 구독에 따라 클라우드 볼륨을 생성할 수 있습니다. 볼륨을 생성한 후 볼륨을 클라이언트에 마운트할 수 있도록 관련 마운트 명령을 가져옵니다. 
+summary: BlueXP를 사용하면 Cloud Volumes Service for Google Cloud 구독을 기반으로 클라우드 볼륨을 생성할 수 있습니다. 볼륨을 생성한 후 볼륨을 클라이언트에 마운트할 수 있도록 관련 마운트 명령을 가져옵니다. 
 ---
 = 볼륨을 생성 및 마운트합니다
 :hardbreaks:
@@ -14,7 +14,7 @@ summary: Cloud Manager를 사용하면 Cloud Volumes Service for Google Cloud �
 
 
 [role="lead"]
-Cloud Manager를 사용하면 Cloud Volumes Service for Google Cloud 구독에 따라 클라우드 볼륨을 생성할 수 있습니다. 볼륨을 생성한 후 볼륨을 클라이언트에 마운트할 수 있도록 관련 마운트 명령을 가져옵니다.
+BlueXP를 사용하면 Cloud Volumes Service for Google Cloud 구독을 기반으로 클라우드 볼륨을 생성할 수 있습니다. 볼륨을 생성한 후 볼륨을 클라이언트에 마운트할 수 있도록 관련 마운트 명령을 가져옵니다.
 
 
 
@@ -118,7 +118,7 @@ image:screenshot_cvs_smb_details.png["SMB Cloud Volumes Service 볼륨에 대해
 
 == 클라우드 볼륨을 마운트합니다
 
-Cloud Manager 내에서 마운트 지침에 액세스하여 볼륨을 호스트에 마운트할 수 있습니다.
+볼륨을 호스트에 마운트할 수 있도록 BlueXP 내에서 마운트 지침에 액세스합니다.
 
 
 NOTE: 클라이언트에서 지원하는 강조 표시된 프로토콜/언어를 사용합니다.

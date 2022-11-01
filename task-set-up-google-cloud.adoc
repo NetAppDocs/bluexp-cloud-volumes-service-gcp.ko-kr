@@ -2,7 +2,7 @@
 sidebar: sidebar 
 permalink: task-set-up-google-cloud.html 
 keywords: setup, set up, api, service account, requirements, permissions 
-summary: Cloud Manager는 Cloud Volumes Service API에 액세스하고 Google Cloud 서비스 계정을 통해 적절한 권한을 부여해야 합니다. 
+summary: BlueXP는 Google Cloud 서비스 계정을 통해 Cloud Volumes Service API 및 올바른 사용 권한에 액세스해야 합니다. 
 ---
 = Google Cloud를 설정합니다
 :hardbreaks:
@@ -14,7 +14,7 @@ summary: Cloud Manager는 Cloud Volumes Service API에 액세스하고 Google Cl
 
 
 [role="lead"]
-Cloud Manager는 Cloud Volumes Service API에 액세스하고 Google Cloud 서비스 계정을 통해 적절한 권한을 부여해야 합니다.
+BlueXP는 Google Cloud 서비스 계정을 통해 Cloud Volumes Service API 및 올바른 사용 권한에 액세스해야 합니다.
 
 
 
@@ -28,7 +28,7 @@ gcloud--project=<my-cvs-project> 서비스는 cloudvolumesgcp-api.netapp.com` �
 
 == 서비스 계정을 설정합니다
 
-Cloud Manager가 Google Cloud 프로젝트에 액세스할 수 있도록 다음 작업을 완료합니다.
+BlueXP가 Google Cloud 프로젝트에 액세스할 수 있도록 다음 작업을 완료합니다.
 
 * 새 서비스 계정을 만듭니다
 * 프로젝트에 새 서비스 계정 구성원을 추가하고 특정 역할(권한)을 할당합니다.
