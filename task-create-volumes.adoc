@@ -110,6 +110,7 @@ image:screenshot_cvs_smb_details.png["SMB Cloud Volumes Service 볼륨에 대해
 . 볼륨 추가 * 를 클릭합니다.
 
 
+.결과
 새 볼륨이 작업 환경에 추가됩니다.
 
 클라우드 볼륨을 계속 마운트합니다.
