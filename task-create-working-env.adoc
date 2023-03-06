@@ -31,11 +31,9 @@ TIP: 여러 Google Cloud 프로젝트에 구독과 볼륨이 있는 경우 각 �
 
 
 .단계
-. BlueXP에서 새 작업 환경을 추가하고 * Google Cloud * 위치를 선택한 다음 * 계속 * 을 클릭합니다.
-. Cloud Volumes Service * 를 선택하고 * 계속 * 을 클릭합니다.
-+
-image:screenshot_add_cvs_gcp_working_env.png["Cloud Volumes Service for GCP 구독에 대한 작업 환경을 추가하는 스크린샷"]
-
+. BlueXP 탐색 메뉴에서 * Storage > Canvas * 를 선택합니다.
+. Canvas 페이지에서 * 작업 환경 추가 * 를 클릭하고 * Google Cloud Platform * 을 선택합니다.
+. Cloud Volumes Service 옆에 있는 * Discover * 를 선택합니다.
 . Cloud Volumes Service 구독에 대한 정보를 제공합니다.
 +
 .. 사용할 작업 환경 이름을 입력합니다.
