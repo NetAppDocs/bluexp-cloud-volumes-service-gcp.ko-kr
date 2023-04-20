@@ -31,7 +31,7 @@ NetApp Cloud Volumes Service for Google Cloud를 사용하면 멀티프로토콜
 
 == 비용
 
-Cloud Volumes Service for Google Cloud에서 생성한 볼륨은 BlueXP(이전의 Cloud Manager)가 아닌 서비스 구독에 부과됩니다.
+Cloud Volumes Service for Google Cloud에서 생성된 볼륨은 BlueXP가 아닌 서비스 구독에 부과됩니다.
 
 BlueXP에서 Google Cloud 지역 또는 볼륨을 위한 Cloud Volumes Service를 검색할 경우 비용이 발생하지 않습니다.
 

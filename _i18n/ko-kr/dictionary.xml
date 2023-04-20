@@ -281,7 +281,6 @@
   <block id="9b73989307c1975dfa4d5e1581e4afe8" category="paragraph">통지 파일은 NetApp 소프트웨어에 사용된 타사의 저작권 및 라이센스에 대한 정보를 제공합니다.</block>
   <block id="5e4b821a1a82558dead1ef6961e90666" category="paragraph">이 옵션은 하루 24시간, 주 7일 동안 무료로 사용할 수 있습니다.</block>
   <block id="19111351b69b6b15668130b38b7f6038" category="inline-link">기술 자료</block>
-  <block id="fd6bb4fa1ad0caeedd6782d92cc54ea3" category="list-text"><block ref="fd6bb4fa1ad0caeedd6782d92cc54ea3" category="inline-link-rx"></block></block>
   <block id="14526abd8bda5af347775025cd5342cf" category="inline-link">커뮤니티</block>
   <block id="410fdb9caa9c64da2ff3f88f4836960d" category="list-text"><block ref="410fdb9caa9c64da2ff3f88f4836960d" category="inline-link-rx"></block></block>
   <block id="5b6cf869265c13af8566f192b4ab3d2a" category="list-text">문서화</block>
@@ -291,7 +290,6 @@
   <block id="b161c15ae834886d4dbb8c09b3bad848" category="paragraph">Active Directory가 구성되어 있지 않은 경우 지금 추가할 수 있습니다. 설정이 구성되어 있으면 를 사용하여 설정을 수정하거나 삭제할 수 있습니다 <block ref="05d0267e107b3cc780d52df5db38eaef" category="inline-image-macro-rx" type="image"></block> 단추를 클릭합니다.</block>
   <block id="6a9903314020e84e3af325216666825e" category="inline-image-macro">세 개의 점이 있는 아이콘.</block>
   <block id="c2f82cf362208ba8433ec2ba2152c7e3" category="list-text">를 클릭합니다 <block ref="8891ca04a345a35bd7da25d57718d9b7" category="inline-image-macro-rx" type="image"></block> 단추를 클릭하고 &lt;Cloud Volumes Service 제거&gt;*를 클릭합니다.</block>
-  <block id="fd17cbb3db356dbaaa35d12e13567cab" category="paragraph">Cloud Volumes Service for Google Cloud에서 생성한 볼륨은 BlueXP(이전의 Cloud Manager)가 아닌 서비스 구독에 부과됩니다.</block>
   <block id="b3153827b11df26704c2e383b3744bc7" category="paragraph">BlueXP에서 Google Cloud 지역 또는 볼륨을 위한 Cloud Volumes Service를 검색할 경우 비용이 발생하지 않습니다.</block>
   <block id="acda26e32c6c45684cc6e4d9d34572cb" category="paragraph">BlueXP는 기존 Cloud Volumes Service for GCP 구독 및 볼륨을 검색할 수 있습니다. 를 참조하십시오<block ref="8cef80fbd20b45fcd51e638492e90799" category="inline-link-rx"></block> 구독을 아직 설정하지 않은 경우</block>
   <block id="c53a96d0d98c2dc96155a20e8df0172d" category="paragraph">BlueXP의 Cloud Volumes Service 작동에 대한 일반적인 질문은 BlueXP 채팅을 사용하십시오.</block>
@@ -467,4 +465,6 @@
   <block id="c7f5c1a75acc58c6f004efc0ce1eba09" category="list-text">* 첨부 파일(선택 사항) *: 한 번에 하나씩 최대 5개의 첨부 파일을 업로드합니다.</block>
   <block id="bfa80e7aaad6da353b431bff3a0e12d6" category="paragraph">첨부 파일은 파일당 25MB로 제한됩니다. txt, log, pdf, jpg/jpeg, rtf, DOC/docx, xls/xlsx 및 CSV.</block>
   <block id="8e6b52a532a4fbbfc98dca3ebfa5f1e6" category="list-text">* 케이스 메모 업데이트 *: 문제에 대한 추가 세부 정보를 제공하거나 * 파일 업로드 * 를 선택하여 최대 5개의 파일을 첨부할 수 있습니다.</block>
+  <block id="942c9249796cf6b78c981ebf15195809" category="list-text"><block ref="942c9249796cf6b78c981ebf15195809" category="inline-link-rx"></block></block>
+  <block id="ccf469f042f13df256e3337ee42f8ef7" category="paragraph">Cloud Volumes Service for Google Cloud에서 생성된 볼륨은 BlueXP가 아닌 서비스 구독에 부과됩니다.</block>
 </blocks>
