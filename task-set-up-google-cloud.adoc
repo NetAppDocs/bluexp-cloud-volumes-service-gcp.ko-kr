@@ -46,7 +46,10 @@ Cloud Console은 이 이름을 기반으로 서비스 계정 ID를 생성합니�
 . 지금 액세스 제어를 설정하려면 페이지 하단에서 * 만들기 * 를 클릭한 후 * 완료 * 를 클릭하고 다음 단계를 계속합니다.
 . IAM 페이지에서 * Add * 를 클릭하고 _ Add Members_페이지의 필드를 입력합니다.
 +
-.. 새 구성원 필드에 전체 서비스 계정 ID(예: user1-service-account-cvs@project1.iam.gserviceaccount.com 입력합니다.
+.. 새 구성원 필드에 전체 서비스 계정 ID를 입력합니다.
++
+예: \user1-service-account-cvs@project1.iam.gserviceaccount.com
+
 .. 다음 역할을 추가합니다.
 +
 *** _NetApp Cloud Volumes 관리자 _
