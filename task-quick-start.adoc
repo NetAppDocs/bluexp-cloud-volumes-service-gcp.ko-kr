@@ -2,7 +2,7 @@
 sidebar: sidebar 
 permalink: task-quick-start.html 
 keywords: quick start, set up cloud volumes service 
-summary: Google Cloud를 설정한 다음 작업 환경을 만들어 Cloud Volumes ONTAP for Google Cloud를 시작하십시오. 
+summary: Google Cloud를 설정한 다음 작업 환경을 만들어 Cloud Volumes Service for Google Cloud를 시작하십시오. 
 ---
 = 워크플로를 시작합니다
 :hardbreaks:
