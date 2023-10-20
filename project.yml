@@ -14,12 +14,14 @@ sidebar:
   - title: Google Cloud용 Cloud Volumes Service 문서
     url: "/index.html"
   - title: 릴리스 정보
-    url: "/whats-new.html"
+    entries:
+    - title: 새로운 소식
+      url: "/whats-new.html"
   - title: 시작하십시오
     entries:
     - title: Google Cloud용 Cloud Volumes Service에 대해 자세히 알아보십시오
       url: "/concept-cvs-gcp.html"
-    - title: 빠른 시작
+    - title: 워크플로를 시작합니다
       url: "/task-quick-start.html"
     - title: Google Cloud를 설정합니다
       url: "/task-set-up-google-cloud.html"

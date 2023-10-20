@@ -16,9 +16,9 @@ summary: BlueXP에서 Google Cloud용 Cloud Volumes Service 작업 환경을 생
 [role="lead"]
 볼륨 및 스냅샷을 생성하고 관리할 수 있도록 BlueXP에서 Google Cloud용 Cloud Volumes Service 작업 환경을 만듭니다.
 
-Google Cloud Console에서 이미 볼륨을 생성했는지, 아니면 Cloud Volumes Service for Google Cloud에 등록만 했고 아직 볼륨이 없는 지와 관계없이, 첫 번째 단계는 GCP 구독에 따라 볼륨의 작업 환경을 생성하는 것입니다.
+Google Cloud 콘솔에서 볼륨을 이미 생성했는지 또는 Cloud Volumes Service for Google Cloud에 등록했지만 아직 볼륨이 없는 경우에도 첫 번째 단계는 Google Cloud 구독을 기반으로 볼륨에 대한 작업 환경을 생성하는 것입니다.
 
-이 구독에 대한 클라우드 볼륨이 이미 있는 경우 새 작업 환경에 볼륨이 표시됩니다. 아직 GCP 구독에 대한 클라우드 볼륨을 추가하지 않은 경우 새로운 작업 환경을 생성한 후에 이를 수행할 수 있습니다.
+이 구독에 대한 클라우드 볼륨이 이미 있는 경우 새 작업 환경에 볼륨이 표시됩니다. Google Cloud 구독에 사용할 클라우드 볼륨을 아직 추가하지 않은 경우 새로운 작업 환경을 생성한 후 추가합니다.
 
 
 TIP: 여러 Google Cloud 프로젝트에 구독과 볼륨이 있는 경우 각 프로젝트에 대해 이 작업을 수행해야 합니다.
@@ -41,7 +41,7 @@ TIP: 여러 Google Cloud 프로젝트에 구독과 볼륨이 있는 경우 각 �
 .. Google Cloud 프로젝트의 이름을 선택합니다.
 .. 계속 * 을 클릭합니다.
 +
-image:screenshot_add_cvs_gcp_credentials.png["Cloud Volumes Service for GCP 구독에 대한 자격 증명을 추가하는 스크린샷"]
+image:screenshot_add_cvs_gcp_credentials.png["Cloud Volumes Service for Google Cloud 구독에 대한 자격 증명을 추가하는 스크린샷"]
 
 
 
